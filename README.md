@@ -1,2 +1,2 @@
-# YFBETSWAP
-YFBET Swap Contract Source Code
+# ETHSTKSWAP
+ETHSTK Swap Contract Source Code
